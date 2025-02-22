@@ -82,3 +82,4 @@ class TestDemo(object):     #测试类名必须以Test开头
 
 if __name__=='__main':
     pytest.main(['-s','pytest_basic.py'])
+    print("study")
